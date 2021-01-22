@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name eec)(type Legacy)(uri ${KIPRJMOD}/Reg_Torex_XC6206P332MR/eec.lib)(options "")(descr ""))
+)
